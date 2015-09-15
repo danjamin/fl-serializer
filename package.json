@@ -1,0 +1,25 @@
+{
+  "name": "fl-serializer",
+  "version": "0.1.0",
+  "description": "Serializer for fluxlike applications",
+  "main": "fl-serializer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danjamin/fl-serializer.git"
+  },
+  "keywords": [
+    "fluxlike",
+    "react",
+    "javascript",
+    "serializer"
+  ],
+  "author": "danjamin <e051ba3be@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danjamin/fl-serializer/issues"
+  },
+  "homepage": "https://github.com/danjamin/fl-serializer#readme"
+}
