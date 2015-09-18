@@ -7,5 +7,5 @@ Serializer for fluxlike applications
 Install [nodejs](https://nodejs.org/)
 
 ```
-$ npm install --save https://github.com/danjamin/fl-serializer.git#master
+$ npm install --save https://github.com/danjamin/fl-serializer.git#0.1.0
 ```

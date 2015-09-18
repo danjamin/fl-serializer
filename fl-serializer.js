@@ -1,6 +1,6 @@
 /* global JSON */
 
-export function Serializer() {
+function Serializer() {
   this.items = {};
 }
 
@@ -57,3 +57,5 @@ Serializer.prototype.deserialize = function (serializedData) {
     }
   }
 };
+
+exports.Serializer = Serializer;
