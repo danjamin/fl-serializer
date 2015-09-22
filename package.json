@@ -1,6 +1,6 @@
 {
   "name": "fl-serializer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Serializer for fluxlike applications",
   "main": "lib/main.js",
   "scripts": {

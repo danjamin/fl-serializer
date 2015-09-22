@@ -12,7 +12,7 @@ Note: this is still in development and not registered to **npm** yet.
       So keep this in mind and install via the Git URL for now.
 
 ```sh
-$ npm install --save https://github.com/danjamin/fl-serializer.git#0.1.0
+$ npm install --save https://github.com/danjamin/fl-serializer.git#v0.1.1
 ```
 
 ### example
