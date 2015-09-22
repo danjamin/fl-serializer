@@ -1,0 +1,16 @@
+{
+  "esnext": false,
+  "enforceall": true,
+  "bitwise": false,
+  "nocomma": false,
+  "indent": 2,
+  "singleGroups": false,
+  "unused": "vars",
+  "camelcase": false,
+  "globals": {
+    "require": false,
+    "module": false,
+    "console": false,
+    "setTimeout": false
+  }
+}

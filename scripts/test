@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# usage: ./scripts/test [filter]
+
+filter=""
+
+# optionally filter tests
+if [ $1 ] ; then
+  filter="--grep $1"
+fi
+
+mocha --opts mocha.opts $filter

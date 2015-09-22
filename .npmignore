@@ -1,0 +1,5 @@
+*
+!lib/*.js
+lib/__tests__/*.js
+!lib/**/*.js
+lib/**/__tests__/*.js
