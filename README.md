@@ -88,4 +88,10 @@ $ ./scripts/test fl-serializer
 
 For now:
 
-update **package.json** version, tag semver, and push to origin
+Update README.md with next version in git url for npm install
+
+```
+$ npm version patch|minor|major
+```
+
+push tags and master to origin
