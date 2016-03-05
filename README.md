@@ -1,3 +1,5 @@
+# NOT MAINTAINED
+
 # fl-serializer [![Build Status](https://travis-ci.org/danjamin/fl-serializer.svg)](https://travis-ci.org/danjamin/fl-serializer)
 
 Serializer for fluxlike isomorphic applications. Intended use is for serailizing
